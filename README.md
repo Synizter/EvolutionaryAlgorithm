@@ -1,1 +1,2 @@
-#Evolutionary Algorithm using DEAP\n Master Degree Thesis
+#Evolutionary Algorithm using DEAP
+Master Degree Thesis
